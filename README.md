@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @squirlemaster42 (Jakob)
+- 👀 I’m interested in programming robots and simulation
+- 🌱 I’m currently learning React
+- 📫 Reach me by email at jakobmisbach8@gmail.com or jmisbach@wpi.edu
