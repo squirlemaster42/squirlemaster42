@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Graph Visualization](https://github.com/squirlemaster42/Graph-Visualization)
 
-- 🌱 I’m currently learning **Software Defined Networking, Graph Visualization**
+- 🌱 I’m currently learning **Blazor WebAssembly, Graph Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/squirlemaster42](https://github.com/squirlemaster42)
 
