@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squirlemaster42" alt="squirlemaster42" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/squirlemaster42/fantasy-frc-web](FantasyFrc)
-
 - 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **jakobmisbach8@gmail.com**
