@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squirlemaster42&show_icons=true&locale=en&layout=compact" alt="squirlemaster42" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=squirlemaster42)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=squirlemaster42" alt="GitHub Streak" /></a>
